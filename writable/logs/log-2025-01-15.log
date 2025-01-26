@@ -1,0 +1,260 @@
+CRITICAL - 2025-01-15 13:33:37 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(910): App\Controllers\Transaction->export()
+#1 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaction))
+#2 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Website\www\ci4_sip-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 D:\Website\www\ci4_sip-master\system\Commands\Server\rewrite.php(34): require_once('D:\\Website\\www\\...')
+#5 {main}
+CRITICAL - 2025-01-15 13:34:03 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(910): App\Controllers\Transaction->export()
+#1 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaction))
+#2 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Website\www\ci4_sip-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 D:\Website\www\ci4_sip-master\system\Commands\Server\rewrite.php(34): require_once('D:\\Website\\www\\...')
+#5 {main}
+CRITICAL - 2025-01-15 13:36:19 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(910): App\Controllers\Transaction->export()
+#1 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaction))
+#2 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Website\www\ci4_sip-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 D:\Website\www\ci4_sip-master\system\Commands\Server\rewrite.php(34): require_once('D:\\Website\\www\\...')
+#5 {main}
+CRITICAL - 2025-01-15 13:36:20 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(910): App\Controllers\Transaction->export()
+#1 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaction))
+#2 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Website\www\ci4_sip-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 D:\Website\www\ci4_sip-master\system\Commands\Server\rewrite.php(34): require_once('D:\\Website\\www\\...')
+#5 {main}
+CRITICAL - 2025-01-15 13:36:20 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(910): App\Controllers\Transaction->export()
+#1 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaction))
+#2 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Website\www\ci4_sip-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 D:\Website\www\ci4_sip-master\system\Commands\Server\rewrite.php(34): require_once('D:\\Website\\www\\...')
+#5 {main}
+CRITICAL - 2025-01-15 13:36:20 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(910): App\Controllers\Transaction->export()
+#1 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaction))
+#2 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Website\www\ci4_sip-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 D:\Website\www\ci4_sip-master\system\Commands\Server\rewrite.php(34): require_once('D:\\Website\\www\\...')
+#5 {main}
+CRITICAL - 2025-01-15 13:36:20 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(910): App\Controllers\Transaction->export()
+#1 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaction))
+#2 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Website\www\ci4_sip-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 D:\Website\www\ci4_sip-master\system\Commands\Server\rewrite.php(34): require_once('D:\\Website\\www\\...')
+#5 {main}
+CRITICAL - 2025-01-15 13:36:21 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(910): App\Controllers\Transaction->export()
+#1 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaction))
+#2 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Website\www\ci4_sip-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 D:\Website\www\ci4_sip-master\system\Commands\Server\rewrite.php(34): require_once('D:\\Website\\www\\...')
+#5 {main}
+CRITICAL - 2025-01-15 13:36:21 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(910): App\Controllers\Transaction->export()
+#1 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaction))
+#2 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Website\www\ci4_sip-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 D:\Website\www\ci4_sip-master\system\Commands\Server\rewrite.php(34): require_once('D:\\Website\\www\\...')
+#5 {main}
+CRITICAL - 2025-01-15 13:36:21 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(910): App\Controllers\Transaction->export()
+#1 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaction))
+#2 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Website\www\ci4_sip-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 D:\Website\www\ci4_sip-master\system\Commands\Server\rewrite.php(34): require_once('D:\\Website\\www\\...')
+#5 {main}
+CRITICAL - 2025-01-15 13:36:24 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(910): App\Controllers\Transaction->export()
+#1 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaction))
+#2 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Website\www\ci4_sip-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 D:\Website\www\ci4_sip-master\system\Commands\Server\rewrite.php(34): require_once('D:\\Website\\www\\...')
+#5 {main}
+CRITICAL - 2025-01-15 13:36:25 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(910): App\Controllers\Transaction->export()
+#1 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaction))
+#2 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Website\www\ci4_sip-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 D:\Website\www\ci4_sip-master\system\Commands\Server\rewrite.php(34): require_once('D:\\Website\\www\\...')
+#5 {main}
+CRITICAL - 2025-01-15 13:36:25 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(910): App\Controllers\Transaction->export()
+#1 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaction))
+#2 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Website\www\ci4_sip-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 D:\Website\www\ci4_sip-master\system\Commands\Server\rewrite.php(34): require_once('D:\\Website\\www\\...')
+#5 {main}
+CRITICAL - 2025-01-15 13:37:03 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(910): App\Controllers\Transaction->export()
+#1 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaction))
+#2 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Website\www\ci4_sip-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 D:\Website\www\ci4_sip-master\system\Commands\Server\rewrite.php(34): require_once('D:\\Website\\www\\...')
+#5 {main}
+CRITICAL - 2025-01-15 13:37:04 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(910): App\Controllers\Transaction->export()
+#1 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaction))
+#2 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Website\www\ci4_sip-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 D:\Website\www\ci4_sip-master\system\Commands\Server\rewrite.php(34): require_once('D:\\Website\\www\\...')
+#5 {main}
+CRITICAL - 2025-01-15 13:38:03 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(910): App\Controllers\Transaction->export()
+#1 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaction))
+#2 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Website\www\ci4_sip-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 D:\Website\www\ci4_sip-master\system\Commands\Server\rewrite.php(34): require_once('D:\\Website\\www\\...')
+#5 {main}
+CRITICAL - 2025-01-15 13:38:03 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(910): App\Controllers\Transaction->export()
+#1 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaction))
+#2 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Website\www\ci4_sip-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 D:\Website\www\ci4_sip-master\system\Commands\Server\rewrite.php(34): require_once('D:\\Website\\www\\...')
+#5 {main}
+CRITICAL - 2025-01-15 13:38:04 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(910): App\Controllers\Transaction->export()
+#1 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaction))
+#2 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Website\www\ci4_sip-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 D:\Website\www\ci4_sip-master\system\Commands\Server\rewrite.php(34): require_once('D:\\Website\\www\\...')
+#5 {main}
+CRITICAL - 2025-01-15 13:38:04 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(910): App\Controllers\Transaction->export()
+#1 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaction))
+#2 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Website\www\ci4_sip-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 D:\Website\www\ci4_sip-master\system\Commands\Server\rewrite.php(34): require_once('D:\\Website\\www\\...')
+#5 {main}
+CRITICAL - 2025-01-15 13:38:04 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(910): App\Controllers\Transaction->export()
+#1 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaction))
+#2 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Website\www\ci4_sip-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 D:\Website\www\ci4_sip-master\system\Commands\Server\rewrite.php(34): require_once('D:\\Website\\www\\...')
+#5 {main}
+CRITICAL - 2025-01-15 13:38:04 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(910): App\Controllers\Transaction->export()
+#1 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaction))
+#2 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Website\www\ci4_sip-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 D:\Website\www\ci4_sip-master\system\Commands\Server\rewrite.php(34): require_once('D:\\Website\\www\\...')
+#5 {main}
+CRITICAL - 2025-01-15 13:38:08 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(910): App\Controllers\Transaction->export()
+#1 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaction))
+#2 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Website\www\ci4_sip-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 D:\Website\www\ci4_sip-master\system\Commands\Server\rewrite.php(34): require_once('D:\\Website\\www\\...')
+#5 {main}
+CRITICAL - 2025-01-15 13:45:21 --> Undefined variable: categories
+#0 D:\Website\www\ci4_sip-master\app\Views\transaction\transaksi.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\Website\\www\\...', 45, Array)
+#1 D:\Website\www\ci4_sip-master\system\View\View.php(236): include('D:\\Website\\www\\...')
+#2 D:\Website\www\ci4_sip-master\system\Common.php(1071): CodeIgniter\View\View->render('transaction/tra...', Array, true)
+#3 D:\Website\www\ci4_sip-master\app\Controllers\Transaction.php(23): view('transaction/tra...', Array)
+#4 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(910): App\Controllers\Transaction->transaksi()
+#5 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaction))
+#6 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Website\www\ci4_sip-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 D:\Website\www\ci4_sip-master\system\Commands\Server\rewrite.php(34): require_once('D:\\Website\\www\\...')
+#9 {main}
+CRITICAL - 2025-01-15 17:12:14 --> Undefined variable: categories
+#0 D:\Website\www\ci4_sip-master\app\Views\transaction\transaksi.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\Website\\www\\...', 45, Array)
+#1 D:\Website\www\ci4_sip-master\system\View\View.php(236): include('D:\\Website\\www\\...')
+#2 D:\Website\www\ci4_sip-master\system\Common.php(1071): CodeIgniter\View\View->render('transaction/tra...', Array, true)
+#3 D:\Website\www\ci4_sip-master\app\Controllers\Transaction.php(29): view('transaction/tra...', Array)
+#4 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(910): App\Controllers\Transaction->transaksi()
+#5 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaction))
+#6 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Website\www\ci4_sip-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 D:\Website\www\ci4_sip-master\system\Commands\Server\rewrite.php(34): require_once('D:\\Website\\www\\...')
+#9 {main}
+CRITICAL - 2025-01-15 17:16:02 --> Undefined variable: produk
+#0 D:\Website\www\ci4_sip-master\app\Views\transaction\transaksi.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\Website\\www\\...', 45, Array)
+#1 D:\Website\www\ci4_sip-master\system\View\View.php(236): include('D:\\Website\\www\\...')
+#2 D:\Website\www\ci4_sip-master\system\Common.php(1071): CodeIgniter\View\View->render('transaction/tra...', Array, true)
+#3 D:\Website\www\ci4_sip-master\app\Controllers\Transaction.php(30): view('transaction/tra...', Array)
+#4 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(910): App\Controllers\Transaction->transaksi()
+#5 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaction))
+#6 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Website\www\ci4_sip-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 D:\Website\www\ci4_sip-master\system\Commands\Server\rewrite.php(34): require_once('D:\\Website\\www\\...')
+#9 {main}
+CRITICAL - 2025-01-15 17:16:03 --> Undefined variable: produk
+#0 D:\Website\www\ci4_sip-master\app\Views\transaction\transaksi.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\Website\\www\\...', 45, Array)
+#1 D:\Website\www\ci4_sip-master\system\View\View.php(236): include('D:\\Website\\www\\...')
+#2 D:\Website\www\ci4_sip-master\system\Common.php(1071): CodeIgniter\View\View->render('transaction/tra...', Array, true)
+#3 D:\Website\www\ci4_sip-master\app\Controllers\Transaction.php(30): view('transaction/tra...', Array)
+#4 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(910): App\Controllers\Transaction->transaksi()
+#5 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaction))
+#6 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Website\www\ci4_sip-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 D:\Website\www\ci4_sip-master\system\Commands\Server\rewrite.php(34): require_once('D:\\Website\\www\\...')
+#9 {main}
+CRITICAL - 2025-01-15 17:16:04 --> Undefined variable: produk
+#0 D:\Website\www\ci4_sip-master\app\Views\transaction\transaksi.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\Website\\www\\...', 45, Array)
+#1 D:\Website\www\ci4_sip-master\system\View\View.php(236): include('D:\\Website\\www\\...')
+#2 D:\Website\www\ci4_sip-master\system\Common.php(1071): CodeIgniter\View\View->render('transaction/tra...', Array, true)
+#3 D:\Website\www\ci4_sip-master\app\Controllers\Transaction.php(30): view('transaction/tra...', Array)
+#4 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(910): App\Controllers\Transaction->transaksi()
+#5 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaction))
+#6 D:\Website\www\ci4_sip-master\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\Website\www\ci4_sip-master\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 D:\Website\www\ci4_sip-master\system\Commands\Server\rewrite.php(34): require_once('D:\\Website\\www\\...')
+#9 {main}
+CRITICAL - 2025-01-15 19:30:18 --> Data truncated for column 'product_price' at row 1
+#0 C:\laragon\www\sipp\system\Database\MySQLi\Connection.php(330): mysqli->query('UPDATE `product...')
+#1 C:\laragon\www\sipp\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `product...')
+#2 C:\laragon\www\sipp\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `product...')
+#3 C:\laragon\www\sipp\system\Database\BaseBuilder.php(2410): CodeIgniter\Database\BaseConnection->query('UPDATE `product...', Array, false)
+#4 C:\laragon\www\sipp\app\Models\Product_model.php(31): CodeIgniter\Database\BaseBuilder->update(Array, Array)
+#5 C:\laragon\www\sipp\app\Controllers\Product.php(148): App\Models\Product_model->updateProduct(Array, '1')
+#6 C:\laragon\www\sipp\system\CodeIgniter.php(910): App\Controllers\Product->update()
+#7 C:\laragon\www\sipp\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#8 C:\laragon\www\sipp\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\sipp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\sipp\system\Commands\Server\rewrite.php(34): require_once('C:\\laragon\\www\\...')
+#11 {main}
+CRITICAL - 2025-01-15 19:33:17 --> filter_var(): Passing null to parameter #3 ($options) of type array|int is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'filter_var(): P...', 'C:\\laragon\\www\\...', 429)
+#1 C:\laragon\www\sipp\system\HTTP\Request.php(429): filter_var(2, 519, NULL)
+#2 C:\laragon\www\sipp\system\HTTP\Request.php(297): CodeIgniter\HTTP\Request->fetchGlobal('server', 'argc', 519, NULL)
+#3 C:\laragon\www\sipp\system\HTTP\CLIRequest.php(218): CodeIgniter\HTTP\Request->getServer('argc', 519)
+#4 C:\laragon\www\sipp\system\HTTP\CLIRequest.php(96): CodeIgniter\HTTP\CLIRequest->parseCommand()
+#5 C:\laragon\www\sipp\system\Config\Services.php(149): CodeIgniter\HTTP\CLIRequest->__construct(Object(Config\App))
+#6 C:\laragon\www\sipp\system\Config\BaseService.php(123): CodeIgniter\Config\Services::clirequest(Object(Config\App), false)
+#7 C:\laragon\www\sipp\system\Config\Services.php(141): CodeIgniter\Config\BaseService::getSharedInstance('clirequest', Object(Config\App))
+#8 C:\laragon\www\sipp\system\CodeIgniter.php(555): CodeIgniter\Config\Services::clirequest(Object(Config\App))
+#9 C:\laragon\www\sipp\system\CodeIgniter.php(280): CodeIgniter\CodeIgniter->getRequestObject()
+#10 C:\laragon\www\sipp\system\CLI\Console.php(86): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\sipp\spark(57): CodeIgniter\CLI\Console->run()
+#12 {main}
+CRITICAL - 2025-01-15 23:02:13 --> Field 'trx_date' doesn't have a default value
+#0 C:\laragon\www\sipp\system\Database\MySQLi\Connection.php(330): mysqli->query('INSERT INTO `tr...')
+#1 C:\laragon\www\sipp\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tr...')
+#2 C:\laragon\www\sipp\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tr...')
+#3 C:\laragon\www\sipp\system\Database\BaseBuilder.php(2206): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tr...', Array, false)
+#4 C:\laragon\www\sipp\app\Models\Transaction_model.php(28): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\laragon\www\sipp\app\Controllers\Transaction.php(118): App\Models\Transaction_model->insertTransaction(Array)
+#6 C:\laragon\www\sipp\system\CodeIgniter.php(910): App\Controllers\Transaction->store()
+#7 C:\laragon\www\sipp\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Transaction))
+#8 C:\laragon\www\sipp\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\sipp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\sipp\system\Commands\Server\rewrite.php(34): require_once('C:\\laragon\\www\\...')
+#11 {main}
+CRITICAL - 2025-01-15 23:08:42 --> Trying to access array offset on value of type null
+#0 C:\laragon\www\sipp\app\Views\auth\register.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'C:\\laragon\\www\\...', 44, Array)
+#1 C:\laragon\www\sipp\system\View\View.php(236): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\sipp\system\Common.php(1071): CodeIgniter\View\View->render('auth/register', Array, true)
+#3 C:\laragon\www\sipp\app\Controllers\Auth.php(81): view('auth/register')
+#4 C:\laragon\www\sipp\system\CodeIgniter.php(910): App\Controllers\Auth->register()
+#5 C:\laragon\www\sipp\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 C:\laragon\www\sipp\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\sipp\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\laragon\www\sipp\system\Commands\Server\rewrite.php(34): require_once('C:\\laragon\\www\\...')
+#9 {main}
